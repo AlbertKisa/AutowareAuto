@@ -5,4 +5,5 @@
 sudo docker run hello-world
 ```
 出现如下错误  
-！[aufs_mount](https://github.com/AlbertKisa/AutowareAuto/blob/main/img/aufs_mount.png)
+![baidu](https://github.com/AlbertKisa/AutowareAuto/blob/main/img/aufs_mount.png)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
