@@ -8,7 +8,7 @@ sudo docker run hello-world
 ![baidu](https://github.com/AlbertKisa/AutowareAuto/blob/main/img/aufs_mount.png)
 
 ## 2.docker安装命令问题
-真确安装命令  
+正确安装命令  
 ```
 sudo apt-get purge docker-ce docker-ce-cli containerd.io
 ```
