@@ -18,3 +18,11 @@ sudo apt purge docker-ce docker-ce-cli containerd.io
 ```
 错误截图如下  
 ![apt-get](https://github.com/AlbertKisa/AutowareAuto/blob/main/img/apt-get.png)  
+
+## 3.启动ade出现问题
+安装完ADE使用如下命令进行测试
+```
+
+```
+出现如下错误
+![adeError](https://github.com/AlbertKisa/AutowareAuto/blob/main/img/startADE.png)
